@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://storage.googleapis.com/pai-images/c0a5e7a17d364feba4484af264ffb55e.jpeg"  />
+
 <h3 align="left">## CHRISTIAN AXELL TONG CRUZ<br>📧 Correo: christian.tongcruz96@outlook.com</h3>
 
 ---
