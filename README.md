@@ -1,5 +1,7 @@
-
-<h3 align="left">## CHRISTIAN AXELL TONG CRUZ<br>📧 Correo: christian.tongcruz96@outlook.com</h3>
+<span>
+<p align="left">
+<h2>¡Bienvenido a mi perfil de GitHub!</h2>Aquí encontrarás mi trabajo y proyectos relacionados con el desarrollo web y de sistemas. <br><br>Siempre buscando nuevas oportunidades para aprender y crecer en el mundo de la tecnología.</p>
+</span>
 
 ---
 
@@ -22,12 +24,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
-<br clear="both">
-<br clear="both">
-<span>
-<p align="left">
-<h2>¡Bienvenido a mi perfil de GitHub!</h2>Aquí encontrarás mi trabajo y proyectos relacionados con el desarrollo web y de sistemas. <br>Siempre buscando nuevas oportunidades para aprender y crecer en el mundo de la tecnología.<br><br>¡Conéctate conmigo en LinkedIn para mantenernos en contacto y explorar posibles colaboraciones!</p>
-</span>
+
+---
+
+<p>
+ ¡Conéctate conmigo en LinkedIn para mantenernos en contacto y explorar posibles colaboraciones!
+</p>
+
 <br clear="both">
 </div>
 <div align="right">
