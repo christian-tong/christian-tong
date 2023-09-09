@@ -1,6 +1,6 @@
 <span>
 <p align="left">
-<h2>¡Bienvenido a mi perfil de GitHub!</h2>Aquí encontrarás mi trabajo y proyectos relacionados con el desarrollo web y de sistemas. <br><br>Siempre buscando nuevas oportunidades para aprender y crecer en el mundo de la tecnología.</p>
+<h2>¡Bienvenido a mi perfil de GitHub!</h2>Aquí encontrarás mis trabajos y proyectos relacionados con el desarrollo web y de sistemas. <br><br>Siempre buscando nuevas oportunidades para aprender y crecer en el mundo de la tecnología.</p>
 </span>
 
 ---
